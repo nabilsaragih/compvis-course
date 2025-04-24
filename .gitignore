@@ -1,2 +1,5 @@
 image-classification/data/
 *.zip
+
+!image-classification/data/color_moments_features.csv
+!image-classification/data/color_histogram_features.csv
