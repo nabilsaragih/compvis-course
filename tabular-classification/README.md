@@ -1,11 +1,11 @@
-# Prediksi Penyakit Jantung
+# Prediksi Gagal Jantung
 
-**Proyek ini** menggunakan *machine learning* untuk memprediksi risiko penyakit jantung berdasarkan data klinis pasien. Dibangun dengan Python dan *library* scikit-learn, model ini dapat membantu tenaga medis dalam melakukan penilaian awal pasien.
+**Proyek ini** menggunakan *machine learning* untuk memprediksi risiko gagal jantung berdasarkan data klinis pasien. Dibangun dengan Python dan *library* scikit-learn, model ini dapat membantu tenaga medis dalam melakukan penilaian awal pasien.
 
 ---
 
 ## **🔍 Deskripsi Projek**
-Proyek ini bertujuan untuk memprediksi penyakit jantung menggunakan algoritma **Gaussian Naive Bayes** dengan *pipeline* preprocessing yang mencakup:
+Proyek ini bertujuan untuk memprediksi gagal jantung menggunakan algoritma **Gaussian Naive Bayes** dengan *pipeline* preprocessing yang mencakup:
 - **StandardScaler** → Normalisasi fitur numerik (usia, tekanan darah, kolesterol, dll.)
 - **OneHotEncoder** → Mengubah fitur kategorikal (jenis kelamin, jenis nyeri dada, dll.)
 - **PCA** → Reduksi dimensi untuk meningkatkan performa model
@@ -103,3 +103,5 @@ Akurasi: 0.82
 - [ ] **Deploy sebagai Aplikasi Web** (Flask/Django)
 - [ ] **Penanganan Data Tidak Seimbang** (SMOTE/Undersampling)
 
+## **📜 Sumber Dataset**
+[Heart Failure Dataset](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
