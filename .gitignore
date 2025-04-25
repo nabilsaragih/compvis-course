@@ -1,4 +1,5 @@
 image-classification/data/*
+tabular-classification/data
 *.zip
 
 !image-classification/data/color_moments_features.csv
