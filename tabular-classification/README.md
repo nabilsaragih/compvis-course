@@ -1,4 +1,4 @@
-# Prediksi Penyakit Jantung**
+# Prediksi Penyakit Jantung
 
 **Proyek ini** menggunakan *machine learning* untuk memprediksi risiko penyakit jantung berdasarkan data klinis pasien. Dibangun dengan Python dan *library* scikit-learn, model ini dapat membantu tenaga medis dalam melakukan penilaian awal pasien.
 
