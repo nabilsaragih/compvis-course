@@ -26,7 +26,7 @@ Proyek ini merupakan bagian dari pembelajaran Computer Vision dan Machine Learni
 - **Model:**  
   Menggunakan algoritma **Naive Bayes** untuk klasifikasi data tabular.
 - **Proses:**
-  - Exploratory Data Analysis (EDA) dan preprocessing data (handling missing values, encoding, normalization).
+  - Exploratory Data Analysis (EDA) dan preprocessing data (encoding, standardization).
   - Pembagian data menjadi train-test.
   - Training model Naive Bayes dan evaluasi performa (akurasi, precision, recall, confusion matrix).
 - **Tujuan:**  
